@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>pearl with me</title>
+<link rel="stylesheet" type="text/css" href="css/gloabee.css"/>
+<link rel="stylesheet" type="text/css" href="css/index.css"/>
+</head>
+
+<body>
+<div class="logo">
+  <div class="plogo">
+  <p> pearl with me</p>
+  </div>
+  <div class="rlogo"></div>
+  
+</div>
+<div class="nav">
+  <ul>
+    <li><a href="#">关于珍珠</a> </li>
+    <li><a href="#">品牌推荐</a></li>
+    <li><a href="#">前沿饰品</a></li> 
+    <li><a href="#">美图浏览 </a></li> 
+  </ul>
+</div>
+<div class="con">
+  <div class="ad"></div>
+  <div class="news">
+  <ul>
+   <li><a href="#">品牌故事</a> </li>
+    <li><a href="#">时尚资讯</a></li>
+    <li><a href="#">耳环</a></li> 
+    <li><a href="#">项链 </a></li>
+    <li><a href="#">戒指</a> </li>
+    <li><a href="#">其他配饰</a></li>
+    <li><a href="#">名模会场</a></li> 
+    </ul> 
+    </div>
+</div>
+<div class="copy"><p>&copy;zhangyining   Tel:15329337977    E-mail:1137613899@qq.com</p>
+</div>
+
+</body>
+</html>
